@@ -1,5 +1,5 @@
 
-Educations
+EDUCATION
 ========================
 
 

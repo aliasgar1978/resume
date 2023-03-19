@@ -8,9 +8,7 @@ KNOWLEDGEBASE
 
 
    Educations  <_educations>
-   IT Software <_sw>
-   IT Hardware <_hw>
-   IT Network <_nw>
-   IT Automation <_auto>
+   Certifications <_cert>
+   Other Trainings <_trainings>
 
 
