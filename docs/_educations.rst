@@ -46,16 +46,14 @@ Educations
     Passed with 75%. attached scanned copy of Marksheet and Certificates.
 
 
-    .. figure::
+    +------------------------------------------------+------------------------------------------------+------------------------------------------------+
+    | First Year Marksheet                           | Second Year Marksheet                          | Third Year Marksheet                           |
+    +------------------------------------------------+------------------------------------------------+------------------------------------------------+
+    | .. figure:: images/edu/PTSCS-FY-Marksheet.jpg  | .. figure:: images/edu/PTSCS-SY-Marksheet.jpg  | .. figure:: images/edu/PTSCS-TY-Marksheet.jpg  |
+    +------------------------------------------------+------------------------------------------------+------------------------------------------------+
 
-    +------------------------+----------------------------------------------+
-    | First Year Marksheet   |.. figure:: images/edu/PTSCS-FY-Marksheet.jpg |                                    |
-    +------------------------+----------------------------------------------+
-    | Second Year Marksheet  |.. figure:: images/edu/PTSCS-SY-Marksheet.jpg |                                    |
-    +------------------------+----------------------------------------------+
-    | Third Year Marksheet   |.. figure:: images/edu/PTSCS-TY-Marksheet.jpg |                                    |
-    +------------------------+----------------------------------------------+
-    | Final Year Certificate |.. figure:: images/edu/PTSCS-Certificate.jpg  |                                    |
-    +------------------------+----------------------------------------------+
+    Final Year Certificate
+    
+    .. figure:: images/edu/PTSCS-Certificate.jpg
 
 
