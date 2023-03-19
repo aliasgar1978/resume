@@ -27,7 +27,7 @@ PERSONAL
 +-------------------------------------------------------+
 
 
-.. Information ::
+.. Information::
 
    * Sex: Male
    * Age: ~ 45 Years
