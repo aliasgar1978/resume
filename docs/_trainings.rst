@@ -16,8 +16,7 @@ Machine Learning
         #. Unsupervised Learning, Recommenders, Reinforcement Learning
 
 
-    .. image:: images/tr_ml/CE-Machine Learning-course.pdf
-
+    :download:`Machine Learning Course Certificate <images/tr_ml/CE-Machine Learning-course.pdf>`.
 
     +------------------------------------------------+------------------------------------------------+------------------------------------------------+
     | Supervised Machine Learning Regression         | Advanced Learning Algorithms                   | Unsupervised Learning, Recommenders,           |
