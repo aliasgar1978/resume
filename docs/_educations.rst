@@ -9,16 +9,13 @@ Educations
     Passed with 72%. attached scanned copy of Marksheet and Certificates.
 
 
-    .. figure:: images/edu/SSC-Cert.jpg
-        :scale: 50%
-        :alt: SSC-Cert.jpg
-        :align: right
-
-
-    .. figure:: images/edu/SSC-Marksheet.jpg
-        :scale: 50%
-        :alt: SSC-Marksheet.jpg
-        :align: left
+    +------------------------------------------------+------------------------------------------------+
+    | SSC Certificate                                | SSC Marksheet                                  |
+    +------------------------------------------------+------------------------------------------------+
+    | .. figure:: images/edu/SSC-Cert.jpg            | .. figure:: images/edu/SSC-Marksheet.jpg       |
+    |     :alt: SSC-Cert.jpg                         |     :alt: SSC-Marksheet.jpg                    |
+    |     :align: right                              |     :align: left                               |
+    +------------------------------------------------+------------------------------------------------+
 
 
 
@@ -27,16 +24,14 @@ Educations
 
     Passed with 53%. attached scanned copy of Marksheet and Certificates.
 
-
-    .. figure:: images/edu/HSC-Cert.jpg
-        :scale: 50%
-        :alt: HSC-Cert.jpg
-        :align: right
-
-    .. figure:: images/edu/HSC-Marksheet.jpg
-        :scale: 50%
-        :alt: HSC-Marksheet.jpg
-        :align: left
+    +------------------------------------------------+------------------------------------------------+
+    | HSC Certificate                                | HSC Marksheet                                  |
+    +------------------------------------------------+------------------------------------------------+
+    | .. figure:: images/edu/HSC-Cert.jpg            | .. figure:: images/edu/HSC-Marksheet.jpg       |
+    |     :scale: 50%                                |     :scale: 50%                                |
+    |     :alt: HSC-Cert.jpg                         |     :alt: HSC-Marksheet.jpg                    |
+    |     :align: right                              |     :align: left                               |
+    +------------------------------------------------+------------------------------------------------+
 
 
 
