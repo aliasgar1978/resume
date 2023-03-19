@@ -7,10 +7,10 @@ ALIASGAR HOZAIFA LOKHANDWALA - Knowledgebase
    :caption: Contents:
 
 
-   School/College  <u_doc/_school>
-   IT Software <u_doc/_sw>
-   IT Hardware <u_doc/_hw>
-   IT Network <u_doc/_nw>
-   IT Automation <u_doc/_auto>
+   School/College  <_school>
+   IT Software <_sw>
+   IT Hardware <_hw>
+   IT Network <_nw>
+   IT Automation <_auto>
 
 

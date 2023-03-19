@@ -1,4 +1,9 @@
-ALIASGAR HOZAIFA LOKHANDWALA
+PERSONAL
 #############################
 
-PERSONAL DETAILS WILL GO HERE
+
+
++------------------------+--------------------------------+
+| ALIASGAR HOZAIFA       |.. image:: images/ali.png       |
+| LOKHANDWALA            |                                |
++========================+================================+
