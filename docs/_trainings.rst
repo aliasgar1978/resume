@@ -16,7 +16,7 @@ Machine Learning
         #. Unsupervised Learning, Recommenders, Reinforcement Learning
 
 
-    .. figure:: images/tr_ml/CE-Machine Learning-course.pdf
+    .. image:: images/tr_ml/CE-Machine Learning-course.pdf
 
 
     +------------------------------------------------+------------------------------------------------+------------------------------------------------+
