@@ -9,7 +9,7 @@ Resume
    :numbered:
 
    Personal <docs/_personal>
-   Educational <docs/_education>
+   Knowledgebase <docs/_knowledgebase>
    Timelines <docs/_timeline>
 
 
