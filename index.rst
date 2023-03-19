@@ -10,14 +10,7 @@ Resume
 
    Personal <docs/_personal>
    Knowledgebase <docs/_knowledgebase>
-   Timelines <docs/_timeline>
+   Timelines <docs/_timelines>
 
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

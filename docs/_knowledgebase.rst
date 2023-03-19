@@ -1,5 +1,5 @@
 
-KNOWLEDGEBASE
+KNOWLEDGE BASE
 ************************************
 
 .. toctree::
