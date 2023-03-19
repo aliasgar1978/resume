@@ -4,6 +4,6 @@ PERSONAL
 
 
 +------------------------+--------------------------------+
-| ALIASGAR HOZAIFA       |.. image:: images/ali.png       |
+| ALIASGAR HOZAIFA       |.. image:: images/ali.jpg       |
 | LOKHANDWALA            |                                |
 +========================+================================+
