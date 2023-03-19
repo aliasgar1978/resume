@@ -9,10 +9,16 @@ Educations
     Passed with 72%. attached scanned copy of Marksheet and Certificates.
 
 
-    .. image:: images/edu/SSC-Cert.jpg
+    .. figure:: images/edu/SSC-Cert.jpg
+        :scale: 50%
+        :alt: SSC-Cert.jpg
+        :align: right
 
 
-    .. image:: images/edu/SSC-Marksheet.jpg
+    .. figure:: images/edu/SSC-Marksheet.jpg
+        :scale: 50%
+        :alt: SSC-Marksheet.jpg
+        :align: left
 
 
 
@@ -22,11 +28,15 @@ Educations
     Passed with 53%. attached scanned copy of Marksheet and Certificates.
 
 
-    .. image:: images/edu/HSC-Cert.jpg
+    .. figure:: images/edu/HSC-Cert.jpg
+        :scale: 50%
+        :alt: HSC-Cert.jpg
+        :align: right
 
-
-    .. image:: images/edu/HSC-Marksheet.jpg
-
+    .. figure:: images/edu/HSC-Marksheet.jpg
+        :scale: 50%
+        :alt: HSC-Marksheet.jpg
+        :align: left
 
 
 
@@ -36,14 +46,16 @@ Educations
     Passed with 75%. attached scanned copy of Marksheet and Certificates.
 
 
-+------------------------+---------------------------------------------+
-| First Year Marksheet   |.. image:: images/edu/PTSCS-FY-Marksheet.jpg |                                    |
-+------------------------+---------------------------------------------+
-| Second Year Marksheet  |.. image:: images/edu/PTSCS-SY-Marksheet.jpg |                                    |
-+------------------------+---------------------------------------------+
-| Third Year Marksheet   |.. image:: images/edu/PTSCS-TY-Marksheet.jpg |                                    |
-+------------------------+---------------------------------------------+
-| Final Year Certificate |.. image:: images/edu/PTSCS-Certificate.jpg  |                                    |
-+------------------------+---------------------------------------------+
+    .. figure::
+
+    +------------------------+----------------------------------------------+
+    | First Year Marksheet   |.. figure:: images/edu/PTSCS-FY-Marksheet.jpg |                                    |
+    +------------------------+----------------------------------------------+
+    | Second Year Marksheet  |.. figure:: images/edu/PTSCS-SY-Marksheet.jpg |                                    |
+    +------------------------+----------------------------------------------+
+    | Third Year Marksheet   |.. figure:: images/edu/PTSCS-TY-Marksheet.jpg |                                    |
+    +------------------------+----------------------------------------------+
+    | Final Year Certificate |.. figure:: images/edu/PTSCS-Certificate.jpg  |                                    |
+    +------------------------+----------------------------------------------+
 
 
