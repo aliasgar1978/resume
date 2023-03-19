@@ -54,7 +54,7 @@ Bechlor of Science (Chemistry, Dyes) - Year 2000
     | .. figure:: images/edu/PTSCS-FY-Marksheet.jpg  | .. figure:: images/edu/PTSCS-SY-Marksheet.jpg  | .. figure:: images/edu/PTSCS-TY-Marksheet.jpg  |
     +------------------------------------------------+------------------------------------------------+------------------------------------------------+
 
-    Final Year Certificate
+    Deegree Certificate
     
     .. figure:: images/edu/PTSCS-Certificate.jpg
 

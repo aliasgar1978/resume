@@ -10,17 +10,9 @@ Machine Learning
     * Self study at coursera
     * inluded 3 courses.
 
-        #. Supervised Machine Learning Regression and Classification
-
-            :download:`Course1 <images/tr_ml/CE-ML-C1.pdf>`.
-
-        #. Advanced Learning Algorithms
-
-            :download:`Course2 <images/tr_ml/CE-ML-C3.pdf>`.
-
-        #. Unsupervised Learning, Recommenders, Reinforcement Learning
-
-            :download:`Course3 <images/tr_ml/CE-ML-C3.pdf>`.
+        #. Supervised Machine Learning Regression and Classification.  :download:`Course1 <images/tr_ml/CE-ML-C1.pdf>`.
+        #. Advanced Learning Algorithms :download:`Course2 <images/tr_ml/CE-ML-C3.pdf>`.
+        #. Unsupervised Learning, Recommenders, Reinforcement Learning :download:`Course3 <images/tr_ml/CE-ML-C3.pdf>`.
 
 
     :download:`Machine Learning Course Certificate <images/tr_ml/CE-Machine Learning-course.pdf>`.
@@ -64,7 +56,7 @@ Structuring Machine Learning Projects
 
         #. Structuring Machine Learning Projects
 
-            :download:`Course1 <images/tr_ml/CE-Structuring ML Projects.pdf>`.
+            :download:`Course certificate <images/tr_ml/CE-Structuring ML Projects.pdf>`.
 
 
 Neural Networks and Deep Learning
@@ -75,7 +67,7 @@ Neural Networks and Deep Learning
 
         #. Neural Networks and Deep Learning
 
-            :download:`Course1 <images/tr_ml/CE-Coursera NN and DL.pdf>`.
+            :download:`Course certificate <images/tr_ml/CE-Coursera NN and DL.pdf>`.
 
 
 Advance Your Skills in Deep Learning and Neural Networks
@@ -90,27 +82,27 @@ Advance Your Skills in Deep Learning and Neural Networks
 
         #. Recurrent Neural Networks
 
-            :download:`Course1 <images/tr_ml/LI-Recurrent Neural Networks.pdf>`.
+            :download:`Course2 <images/tr_ml/LI-Recurrent Neural Networks.pdf>`.
 
 
         #. Deep Learning: Model Optimization and Tuning
 
-            :download:`Course1 <images/tr_ml/LI-Deep Learning Model Optimization and Tuning.pdf>`.
+            :download:`Course3 <images/tr_ml/LI-Deep Learning Model Optimization and Tuning.pdf>`.
 
 
         #. Building Deep Learning Applications with Keras 2.0
 
-            :download:`Course1 <images/tr_ml/LI-Building Deep Learning Applications with Keras 2.0.pdf>`.
+            :download:`Course4 <images/tr_ml/LI-Building Deep Learning Applications with Keras 2.0.pdf>`.
 
 
         #. Advanced AI: Transformers for NLP using Large Language Models
 
-            :download:`Course1 <images/tr_ml/LI-Advanced_AI_Transformers_for_NLP_using_Large_Language_Models.pdf>`.
+            :download:`Course5 <images/tr_ml/LI-Advanced_AI_Transformers_for_NLP_using_Large_Language_Models.pdf>`.
 
 
         #. Advanced NLP with Python for Machine Learning
 
-            :download:`Course1 <images/tr_ml/LI-Advanced NLP with Python for Machine Learning.pdf>`.
+            :download:`Course6 <images/tr_ml/LI-Advanced NLP with Python for Machine Learning.pdf>`.
 
 
 
@@ -127,7 +119,7 @@ Building Chatbots Using Google Dialogflow
 
         #. Building Chatbots Using Google Dialogflow
 
-            :download:`Course1 <images/tr_ml/CertificateOfCompletion_Building Chatbots Using Google Dialogflow.pdf>`.
+            :download:`Course certificate <images/tr_ml/CertificateOfCompletion_Building Chatbots Using Google Dialogflow.pdf>`.
 
 
 
@@ -141,7 +133,7 @@ Cyber Security online
 
         #. Cyber Security online
 
-            :download:`Course1 <images/tr/TR-CyberSecurity_Certificate.pdf>`.
+            :download:`Course certificate <images/tr/TR-CyberSecurity_Certificate.pdf>`.
 
 
 
@@ -153,6 +145,6 @@ Juniper MPLS and VPN (JMV)
 
         #. Juniper MPLS and VPN (JMV)
 
-            :download:`Certificate <images/tr/Juniper MPLS VPN Cert.pdf>`.
+            :download:`Course certificate <images/tr/Juniper MPLS VPN Cert.pdf>`.
 
 
