@@ -9,19 +9,33 @@ PERSONAL
 
 
 +-------------------------------------------------------+
-| **ALIASGAR HOZAIFA**                                      |
-| **LOKHANDWALA**                                           |
+| ALIASGAR HOZAIFA                                      |
+| LOKHANDWALA                                           |
 +=======================================================+
-| **Sex:** Male                                                  |
+| Sex: Male                                             |
 +-------------------------------------------------------+
-| **Marital Status:** Married                               |
+| Marital Status: Married                               |
 +-------------------------------------------------------+
-| **Age**: 45 Years                                         |
+| Age: 45 Years                                         |
 +-------------------------------------------------------+
-| **Present Address:** B1, Fakhri Enclave, Gottigere,       | 
+| Present Address: B1, Fakhri Enclave, Gottigere,       | 
 | Bangalore                                             |
 +-------------------------------------------------------+
-| **email:** aholo2000@gmail.com, aliasgar1978@yahoo.com    |
+| email: aholo2000@gmail.com, aliasgar1978@yahoo.com    |
 +-------------------------------------------------------+
-| **contact:** +91 789 234 0293                             |
+| contact: +91 789 234 0293                             |
 +-------------------------------------------------------+
+
+
+.. Information ::
+
+   * Sex: Male
+   * Age: ~ 45 Years
+   * Nationality: Indian
+   * Marital Status: Married
+   * Present Address: B1, Fakhri Enclave, Gottigere, Bangalore
+   * email: aholo2000@gmail.com, aliasgar1978@yahoo.com
+   * contact: +91 789 234 0293
+
+
+
