@@ -54,7 +54,7 @@ Experience Time Lines
         * UPS Vendor Management. 
 
     * Note: Initial 3 years I was on payroll of various vendors (CMS, Prolease, TalentPro).
-    .. figure:: images/exp/Sify Amnd.jpg
+    .. figure:: images/exp/Sify_Amnd.jpg
 
     * Last Year was on Sify Payroll.
     .. figure:: images/exp/Sify.jpg
