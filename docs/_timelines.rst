@@ -7,7 +7,7 @@ Experience Time Lines
 Apr-1996 to Mar-1997  (1 year)
 ------------------------------------------------
 
-NICE: National Institute of Computer Studies, Surat
+NICE: National Institute of Computer Education, Surat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     * Worked as a Computer Instructor.
@@ -135,8 +135,8 @@ AT&T Communications Services India Pvt Ltd, (Pune, Bangalore)
         * Involved in servicenow development for approx 6 months.
 
  
-    Milestones & Achievements
-    """"""""""""""""""""""""""
+Milestones & Achievements
+""""""""""""""""""""""""""
     
     Take ownership of complex, critical projects and successfully completed well beyond clients expectations.
 
