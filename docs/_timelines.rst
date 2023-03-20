@@ -4,26 +4,24 @@ Experience Time Lines
 
 
 
-1996 - 1997  
+Apr-1996 to Mar-1997  (1 year)
 ------------------------------------------------
 
 NICE: National Institute of Computer Studies, Surat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     * Worked as a Computer Instructor.
-    * 1 year: April-1996 to March-1997.
 
     .. figure:: images/exp/NICE.jpg
 
 
-2000 - 2004  
+Aug-2000 to Aug-2004 (4 years)
 ------------------------------------------------
 
 CISPL: Creative Infotech Solutions Pvt. Ltd, Surat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     * worked as a Customer Support Engineer.
-    * 4 years: August-2000 to August-2004.
 
     **Job Responsibilities**:
         * I was providing PC, Servers Support, and Facility management for various clients of CISPL.
@@ -42,14 +40,13 @@ CISPL: Creative Infotech Solutions Pvt. Ltd, Surat
     .. figure:: images/exp/CISPL.jpg
 
 
-2004 - 2008  
+Sep-2004 to Apr-2008   (4 years)
 ------------------------------------------------
 
 Sify Technologies, Surat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     * worked in Network Control Group and as a Team Leader.
-    * 4 year: Sep-2004 - April-2008.
 
     **Job Responsibilities**:
         * Managing a team of NCG team members, FTSEs , BroadBand Engineers, Wireless Engineers for *south Gujarat Sify*.
@@ -72,62 +69,59 @@ Sify Technologies, Surat
 
 
 
-2008
+Apr-2008 to Aug-2008 (4 months)
 ------------------------------------------------
 
 IBM India Pvt Ltd, Pune
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     * worked as a Network Consultant.
-    * 4 Months: April-2008 - August-2008.
     * Providing network service delivery support for IBM client Dow chemicals.
 
     **Job Responsibilities**:
-        * Preparation of Plan/model (TSD) based on requirement for *Dow Chemicals*
+        * Preparation of Plan/model (TSD-Technical Solution Document)
         * Preparation of Bill of Material.
         * Preparation of Design/Drawing in MS-Visio.
         * Prepare Configuration.
         * Co-ordinate with customer, Project Team & Local Field Engineer for Physical installation and change executions.
 
 
-    * As per agreement I got lateral movement from IBM to AT&T in starting of September2008, with same support job continued.
+    * As per agreement I got movement from IBM to AT&T in starting of September-2008, with same support job continued.
 
     .. figure:: images/exp/IBM.jpg
 
 
-2008 - till day
+Sep-2008 to till day (14+ years)
 ------------------------------------------------
 
 AT&T Communications Services India Pvt Ltd, (Pune, Bangalore)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-    * working as Multiple roles.
-    * 14+ years: September-2008 - till day.
     
-    #. Provided network service delivery support for IBM client Dow chemicals.
-        
+    #. Continued network service delivery support for IBM client Dow chemicals.
         * 4 years: (2008 to 2012)
         
         **Job Responsibilities**:
             same as described above with IBM.
 
-    #. Providing network service delivery support for IBM IGA Account.
-
+    #. Providing network service delivery support for IBM IGA (IBM Global Account).
         * 10+ years (2012 till date)
         
         **Job Responsibilities**:
             as described above with IBM with some additional responsibilities.
 
-    #.  SME (subject matter expert) in Network Data Services.
+    ``SME (subject matter expert) in Network Data Services.``
+
         * 7+ years: (2016 till date)
         * Provide Guidance and support to SEs for their changes.
 
-    #.  POD Leader Role.
+    ``POD Leader Role.``
+
         * 4+ years: (2019 till date)
         * Plan, Configuration reviews for SEs.
         * Prepare RCA/FCA for the issues faced during implementations.
 
-    #. Automation Support (Excel and python based)
+    ``Automation Support (Excel and python based)``
+
         * 8+ years: (2015 till date)
         * Prepared and shared a few tools within team for at&t and client for smooth and quick preparations.
         * Config Generator
@@ -138,18 +132,22 @@ AT&T Communications Services India Pvt Ltd, (Pune, Bangalore)
         * 6 BC - Ipv6 block calculator for IGA Environment.
         * getDiff - generation of Differences from two configurations (juniper, cisco, arista)
         * ISM - Inventory Sticker Maker (to support FSE preparing stickers for devices)
+        * Involved in servicenow development for approx 6 months.
 
-    Milestones
+ 
+    Milestones & Achievements
     """"""""""""""""""""""""""
     
-    Take initiative and successfully completed multiple critical projects within clients expectation window with minimal downtimes.
-    Some examples are -
+    Take ownership of complex, critical projects and successfully completed well beyond clients expectations.
+
+    Some of examples are:
 
     * Network Redesign from legacy to virtualized Netopt Model. Worked on multiple massive IBM sites.
+    * BSO Redesign.
     * IPv6 Enablement for IBM sites across Asia Pacific.
     * Network Tapping Solutions using Arista Switches and Riverbed Netshark at multiple massive IBM sites.
-    * Internet gateway movement from one location to another location.
-    * Full Network lift and shift from one location to another location.
+    * IBM INDIA Internet gateway movement from EGL to ITPL location.
+    * DNS, DHCP Services Infra movement from EGL to ITPL.
     * SDWAN implementations.
-    * IBM - KYNDRYL Network Separations major and massive sites.
+    * IBM & KYNDRYL Network Separations, major and massive sites (end-to-end).
 
