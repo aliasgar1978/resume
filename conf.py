@@ -17,12 +17,12 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'resume'
+project = 'resume.aliasgar.lokhandwala'
 copyright = '2023, ALIASGAR HOZAIFA LOKHANDWALA'
 author = 'ALIASGAR HOZAIFA LOKHANDWALA'
 
 # The full version, including alpha/beta/rc tags
-release = '19.03.2023'
+release = '11.04.2023'
 
 
 # -- General configuration ---------------------------------------------------

@@ -1,5 +1,5 @@
 
-EDUCATION
+Educations
 ========================
 
 
@@ -10,14 +10,8 @@ S.S.C. (10th Board) - Year 1994
     Studied in Baroda Rayon High School, Udhana, Surat. 
     Passed with 72%. Attached scanned copy of Marksheet and Certificates.
 
-
-    +------------------------------------------------+------------------------------------------------+
-    | SSC Certificate                                | SSC Marksheet                                  |
-    +------------------------------------------------+------------------------------------------------+
-    | .. figure:: images/edu/SSC-Cert.jpg            | .. figure:: images/edu/SSC-Marksheet.jpg       |
-    |     :alt: SSC-Cert.jpg                         |     :alt: SSC-Marksheet.jpg                    |
-    |     :align: right                              |     :align: left                               |
-    +------------------------------------------------+------------------------------------------------+
+    * :download:`SSC Certificate <images/SSC-Cert.pdf>`. 
+    * :download:`SSC Marksheet <images/SSC-Marksheet.pdf>`. 
 
 
 
@@ -29,13 +23,8 @@ H.S.S.C. (12th Board) - science stream - Year 1996
     Passed with 53%. 
     Attached scanned copy of Marksheet and Certificates.
 
-    +------------------------------------------------+------------------------------------------------+
-    | HSC Certificate                                | HSC Marksheet                                  |
-    +------------------------------------------------+------------------------------------------------+
-    | .. figure:: images/edu/HSC-Cert.jpg            | .. figure:: images/edu/HSC-Marksheet.jpg       |
-    |     :alt: HSC-Cert.jpg                         |     :alt: HSC-Marksheet.jpg                    |
-    |     :align: right                              |     :align: left                               |
-    +------------------------------------------------+------------------------------------------------+
+    * :download:`HSC Certificate <images/HSC-Cert.pdf>`. 
+    * :download:`HSC Marksheet <images/HSC-Marksheet.pdf>`. 
 
 
 
@@ -48,14 +37,9 @@ Bechlor of Science (Chemistry, Dyes) - Year 2000
     Stood first at college level.
 
 
-    +------------------------------------------------+------------------------------------------------+------------------------------------------------+
-    | First Year Marksheet                           | Second Year Marksheet                          | Third Year Marksheet                           |
-    +------------------------------------------------+------------------------------------------------+------------------------------------------------+
-    | .. figure:: images/edu/PTSCS-FY-Marksheet.jpg  | .. figure:: images/edu/PTSCS-SY-Marksheet.jpg  | .. figure:: images/edu/PTSCS-TY-Marksheet.jpg  |
-    +------------------------------------------------+------------------------------------------------+------------------------------------------------+
+    * :download:`B.Sc. F.Y. Marksheet <images/PTSCS-FY-Marksheet.pdf>`. 
+    * :download:`B.Sc. S.Y. Marksheet <images/PTSCS-SY-Marksheet.pdf>`. 
+    * :download:`B.Sc. T.Y. Marksheet <images/PTSCS-TY-Marksheet.pdf>`. 
 
-    Deegree Certificate
-    
-    .. figure:: images/edu/PTSCS-Certificate.jpg
-
+    * :download:`B.Sc. Degree Certificate <images/PTSCS-Certificate.pdf>`. 
 

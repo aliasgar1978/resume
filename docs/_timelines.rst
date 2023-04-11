@@ -11,8 +11,7 @@ NICE: National Institute of Computer Education, Surat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     * Worked as a Computer Instructor.
-
-    .. figure:: images/exp/NICE.jpg
+    * :download:`NICE Experience Letter <images/NICE.pdf>`. 
 
 
 Aug-2000 to Aug-2004 (4 years)
@@ -37,7 +36,7 @@ CISPL: Creative Infotech Solutions Pvt. Ltd, Surat
         * Networking and configuration of switch / router at *Sumul Dairy, Surat*.(Cisco 2600 router)
 
  
-    .. figure:: images/exp/CISPL.jpg
+    * :download:`Creative Infotech Solutions Pvt. Ltd. Experience Letter <images/CISPL.pdf>`. 
 
 
 Sep-2004 to Apr-2008   (4 years)
@@ -62,10 +61,10 @@ Sify Technologies, Surat
         * UPS and other Vendor Management.
 
     * Initial 3 years I was on payroll of various vendors (CMS, Prolease, TalentPro).
-    .. figure:: images/exp/Sify_Amnd.jpg
+    * :download:`Declaration letter from Sify on above <images/Sify_Amnd.pdf>`. 
 
     * Last Year was on Sify Payroll.
-    .. figure:: images/exp/Sify.jpg
+    * :download:`Sify Payroll Experience Letter <images/Sify.pdf>`. 
 
 
 
@@ -88,7 +87,7 @@ IBM India Pvt Ltd, Pune
 
     * As per agreement I got movement from IBM to AT&T in starting of September-2008, with same support job continued.
 
-    .. figure:: images/exp/IBM.jpg
+    * :download:`IBM Experience Letter <images/IBM.pdf>`. 
 
 
 Sep-2008 to till day (14+ years)
@@ -150,4 +149,10 @@ Milestones & Achievements
     * DNS, DHCP Services Infra movement from EGL to ITPL.
     * SDWAN implementations.
     * IBM & KYNDRYL Network Separations, major and massive sites (end-to-end).
+
+
+.. admonition:: Declaration
+   
+   Due to natual incident at my native home, some of appointment letters, experience certificates are either damanged or destroyed.
+
 

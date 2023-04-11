@@ -1,8 +1,6 @@
 
-CERTIFICATIONS
+Certifications
 ========================
-
-
 
 
 
@@ -13,14 +11,8 @@ CCNA 640-801 (Cisco Certified Network Associate)
     * Completed in year 2004.
     * Passed with 917/1000 rank.
 
-
-    +------------------------------------------------+------------------------------------------------+
-    | CCNA Certificate                               | CCNA Marksheet                                 |
-    +------------------------------------------------+------------------------------------------------+
-    | .. figure:: images/cert/CCNA.jpg               | .. figure:: images/cert/CCNA-ScoreCard.jpg     |
-    |     :alt: CCNA.jpg                             |     :alt: CCNA-ScoreCard.jpg                   |
-    |     :align: right                              |     :align: left                               |
-    +------------------------------------------------+------------------------------------------------+
+    * :download:`CCNA Certificate <images/CCNA.pdf>`. 
+    * :download:`CCNA Marksheet <images/CCNA-ScoreCard.pdf>`. 
 
 
 
@@ -31,13 +23,7 @@ DCT (Diploma in Computer Technology)
     * Completed in year 1998.
     * Passed with 63%
 
-    +------------------------------------------------+
-    | DCT Certificate                                |
-    +------------------------------------------------+
-    | .. figure:: images/cert/DCT.jpg                |
-    |     :alt: DCT.jpg                              |
-    |     :align: right                              |
-    +------------------------------------------------+
+    * :download:`DCT Certificate <images/DCT.pdf>`. 
 
 
 
@@ -48,4 +34,5 @@ DCA (Diploma in Computer Applications)
     * Studied at IICS (Indian Institute of Comuter Studies)
     * Completed in year 1996.
     * Passed with B Grade.
+
 

@@ -1,7 +1,7 @@
 
 
-Resume
-########################################
+Resume - Aliasgar Hozaifa Lokhandwala
+#####################################
 
 .. toctree::
    :maxdepth: 4
@@ -10,8 +10,14 @@ Resume
 
    Personal <docs/_personal>
    Knowledgebase <docs/_knowledgebase>
-   Timeline <docs/_timelines>
-   Community-Development <docs/_community>
+   Experience Timelines <docs/_timelines>
+   Community Development <docs/_community>
 
 
 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
