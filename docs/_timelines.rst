@@ -118,6 +118,7 @@ AT&T Communications Services India Pvt Ltd, (Pune, Bangalore)
         **Job Responsibilities**:
             as described above with IBM with some additional responsibilities.
 
+
     ``SME (subject matter expert) in Network Data Services.``
 
         * 7+ years: (2016 till date)
@@ -149,7 +150,7 @@ Milestones & Achievements
     
     Take ownership of complex, critical projects and successfully completed well beyond clients expectations.
 
-    Some of examples are:
+    **Some of examples are:**
 
     * Network Redesign from legacy to virtualized Netopt Model. Worked on multiple massive IBM sites.
     * BSO Redesign.

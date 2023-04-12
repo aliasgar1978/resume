@@ -103,7 +103,7 @@ Machine Learning Course
     * 3 courses.
 
         #. :download:`ML - Course1 <images/tr_ml/CE-ML-C1.pdf>`. Supervised Machine Learning Regression and Classification.
-        #. :download:`ML - Course2 <images/tr_ml/CE-ML-C3.pdf>`. Advanced Learning Algorithms 
+        #. :download:`ML - Course2 <images/tr_ml/CE-ML-C2.pdf>`. Advanced Learning Algorithms 
         #. :download:`ML - Course3 <images/tr_ml/CE-ML-C3.pdf>`. Unsupervised Learning, Recommenders, Reinforcement Learning 
 
 
