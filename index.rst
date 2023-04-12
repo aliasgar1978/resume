@@ -14,10 +14,3 @@ Resume - Aliasgar Hozaifa Lokhandwala
    Community Development <docs/_community>
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
