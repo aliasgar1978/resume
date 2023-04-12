@@ -1,10 +1,10 @@
 
-Experience Time Lines 
+Experiences (Time Lines) 
 ========================
 
 
 
-Apr-1996 to Mar-1997  (1 year)
+Apr-1996 to Mar-1997  (1 year) NICE/Instructor
 ------------------------------------------------
 
 NICE: National Institute of Computer Education, Surat
@@ -14,8 +14,8 @@ NICE: National Institute of Computer Education, Surat
     * :download:`NICE Experience Letter <images/NICE.pdf>`. 
 
 
-Aug-2000 to Aug-2004 (4 years)
-------------------------------------------------
+Aug-2000 to Aug-2004 (4 years) CISPL/Server Support
+-----------------------------------------------------
 
 CISPL: Creative Infotech Solutions Pvt. Ltd, Surat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -39,7 +39,7 @@ CISPL: Creative Infotech Solutions Pvt. Ltd, Surat
     * :download:`Creative Infotech Solutions Pvt. Ltd. Experience Letter <images/CISPL.pdf>`. 
 
 
-Sep-2004 to Apr-2008   (4 years)
+Sep-2004 to Apr-2008   (4 years) Sify/NCG-TL
 ------------------------------------------------
 
 Sify Technologies, Surat
@@ -68,8 +68,8 @@ Sify Technologies, Surat
 
 
 
-Apr-2008 to Aug-2008 (4 months)
-------------------------------------------------
+Apr-2008 to Aug-2008 (4 months) IBM/Network Consultant
+--------------------------------------------------------
 
 IBM India Pvt Ltd, Pune
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -90,8 +90,8 @@ IBM India Pvt Ltd, Pune
     * :download:`IBM Experience Letter <images/IBM.pdf>`. 
 
 
-Sep-2008 to till day (14+ years)
-------------------------------------------------
+Sep-2008 to till day (14+ years) AT&T/SE,SME,POD-Lead
+-----------------------------------------------------
 
 AT&T Communications Services India Pvt Ltd, (Pune, Bangalore)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
