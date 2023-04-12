@@ -13,6 +13,8 @@ NICE: National Institute of Computer Education, Surat
     * Worked as a Computer Instructor.
     * :download:`NICE Experience Letter <images/NICE.pdf>`. 
 
+-----
+
 
 Aug-2000 to Aug-2004 (4 years) CISPL/Server Support
 -----------------------------------------------------
@@ -37,6 +39,8 @@ CISPL: Creative Infotech Solutions Pvt. Ltd, Surat
 
  
     * :download:`Creative Infotech Solutions Pvt. Ltd. Experience Letter <images/CISPL.pdf>`. 
+
+-----
 
 
 Sep-2004 to Apr-2008   (4 years) Sify/NCG-TL
@@ -67,6 +71,8 @@ Sify Technologies, Surat
     * :download:`Sify Payroll Experience Letter <images/Sify.pdf>`. 
 
 
+-----
+
 
 Apr-2008 to Aug-2008 (4 months) IBM/Network Consultant
 --------------------------------------------------------
@@ -90,6 +96,10 @@ IBM India Pvt Ltd, Pune
     * :download:`IBM Experience Letter <images/IBM.pdf>`. 
 
 
+-----
+
+
+
 Sep-2008 to till day (14+ years) AT&T/SE,SME,POD-Lead
 -----------------------------------------------------
 
@@ -108,18 +118,18 @@ AT&T Communications Services India Pvt Ltd, (Pune, Bangalore)
         **Job Responsibilities**:
             as described above with IBM with some additional responsibilities.
 
-    ``SME (subject matter expert) in Network Data Services.``
+    :underline:``SME (subject matter expert) in Network Data Services.``
 
         * 7+ years: (2016 till date)
         * Provide Guidance and support to SEs for their changes.
 
-    ``POD Leader Role.``
+    :underline:``POD Leader Role.``
 
         * 4+ years: (2019 till date)
         * Plan, Configuration reviews for SEs.
         * Prepare RCA/FCA for the issues faced during implementations.
 
-    ``Automation Support (Excel and python based)``
+    :underline:``Automation Support (Excel and python based)``
 
         * 8+ years: (2015 till date)
         * Prepared and shared a few tools within team for at&t and client for smooth and quick preparations.
@@ -134,8 +144,8 @@ AT&T Communications Services India Pvt Ltd, (Pune, Bangalore)
         * Involved in servicenow development for approx 6 months.
 
  
-Milestones & Achievements
-""""""""""""""""""""""""""
+:underline:Milestones & Achievements
+"""""""""""""""""""""""""""""""""""""""""
     
     Take ownership of complex, critical projects and successfully completed well beyond clients expectations.
 
