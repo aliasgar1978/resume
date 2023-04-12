@@ -37,5 +37,5 @@ Personal
 
    Here I, **Aliasgar Hozaifa Lokhandwala** declares that the information provided here and on forthcoming pages, are 100% true as per my best knowledge.  
 
-   Also, I would like to add, that some of *past original* copies of my certificates, appontment letters are either missing or damaged due to a natural incident happen at my native earlier.
+   Also, I would like to add, that some of *past original* copies of my certificates, appointment letters are either missing or damaged due to a natural incident happen at my native earlier.
 

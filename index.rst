@@ -9,7 +9,7 @@ Resume - Aliasgar Hozaifa Lokhandwala
    :numbered:
 
    Personal <docs/_personal>
-   Knowledgebase <docs/_knowledgebase>
+   Academic <docs/_knowledgebase>
    Experience Timelines <docs/_timelines>
    Community Development <docs/_community>
 
