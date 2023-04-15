@@ -1,6 +1,13 @@
 Personal
 #############################
 
+.. admonition:: Summary
+
+   Subject Matter expert and POD leader in Network and Network Automation, with 15+ years of experience. 
+   Willing to work in Artificial Intelligence, Machine learning.
+
+
+
 .. figure:: images/ali.jpg
    :scale: 25%
    :alt: Aliasgar Hozaifa Lokhandwala
@@ -28,6 +35,9 @@ Personal
 | **Work Location Preferance:** No craving              |
 +-------------------------------------------------------+
 
+
+
+:download:`Resume-Brief <images/resume.pdf>`. 
 
 
 ----
