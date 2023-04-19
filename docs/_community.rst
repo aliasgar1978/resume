@@ -4,8 +4,8 @@ Community Development
 
 
 
-* I personally developed a few ``open sourced python projects``. And uploaded those to pypi repository to use for all.
-* I prepared documentations as well on how to use them for each projects.
+* I personally developed a few **open sourced python projects**. And uploaded those to github/pypi repository.
+* **User Documentation** as well as **API Documentation** also prepared and uploaded on readthedocs.
 
 
 Here are details of each of these.

@@ -164,6 +164,6 @@ Milestones & Achievements
 
 .. admonition:: Declaration
    
-   Due to natual incident at my native home, some of appointment letters, experience certificates are either damanged or destroyed.
+   Due to natural incident at my native home, some of appointment letters, experience certificates are either damanged or destroyed.
 
 
