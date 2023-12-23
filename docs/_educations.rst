@@ -4,36 +4,10 @@ Educations
 
 
 
-S.S.C. (10th Board) - Year 1994
----------------------------------------
-
-    Studied in Baroda Rayon High School, Udhana, Surat. 
-    Passed with 72%. Attached scanned copy of Marksheet and Certificates.
-
-    * :download:`SSC Certificate <images/SSC-Cert.pdf>`. 
-    * :download:`SSC Marksheet <images/SSC-Marksheet.pdf>`. 
-
-
-
-
-H.S.S.C. (12th Board) - science stream - Year 1996
------------------------------------------------------
-
-    Studied in Baroda Rayon High School, Udhana, Surat. 
-    Passed with 53%. 
-    Attached scanned copy of Marksheet and Certificates.
-
-    * :download:`HSC Certificate <images/HSC-Cert.pdf>`. 
-    * :download:`HSC Marksheet <images/HSC-Marksheet.pdf>`. 
-
-
-
-
 Bechlor of Science (Chemistry, Dyes) - Year 2000
 ----------------------------------------------------
 
-    Studied at Purushottamdas Thakordas Sarvajanik College of Science (PTSCS), Surat. (South Gujarat (aka: Veer Narmad) University)
-    Passed with 75%. attached scanned copy of Marksheet and Certificates.
+    Studied at Purushottamdas Thakordas Sarvajanik College of Science (**PTSCS**), Surat. (South Gujarat (New Name: Veer Narmad) University)
     Stood first at college level.
 
 
@@ -42,4 +16,27 @@ Bechlor of Science (Chemistry, Dyes) - Year 2000
     * :download:`B.Sc. T.Y. Marksheet <images/PTSCS-TY-Marksheet.pdf>`. 
 
     * :download:`B.Sc. Degree Certificate <images/PTSCS-Certificate.pdf>`. 
+
+
+
+H.S.S.C. (12th Board) - science stream - Year 1996
+-----------------------------------------------------
+
+    Studied in Baroda Rayon High School, Udhana, Surat. 
+
+    * :download:`HSC Certificate <images/HSC-Cert.pdf>`. 
+    * :download:`HSC Marksheet <images/HSC-Marksheet.pdf>`. 
+
+
+
+S.S.C. (10th Board) - Year 1994
+---------------------------------------
+
+    Studied in Baroda Rayon High School, Udhana, Surat. 
+
+    * :download:`SSC Certificate <images/SSC-Cert.pdf>`. 
+    * :download:`SSC Marksheet <images/SSC-Marksheet.pdf>`. 
+
+
+
 

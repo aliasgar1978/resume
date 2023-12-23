@@ -3,64 +3,6 @@ Trainings
 ========================
 
 
-
-Juniper
--------
-
-
-Juniper MPLS and VPN (JMV) - partener
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-    * Juniper Partener training
-    * TrimeFrame: Jun-2014
-    * 1 course.
-
-        #. :download:`JMV Course certificate <images/tr/Juniper MPLS VPN Cert.pdf>`. Juniper MPLS and VPN (JMV)
-
------
-
-
-Security
---------
-
-
-Cyber Security online
-^^^^^^^^^^^^^^^^^^^^^
-
- 
-    * Self study at udemy online
-    * TrimeFrame: Jul-2017
-    * 1 course.
-
-        #. :download:`CS online Course certificate <images/tr/TR-CyberSecurity_Certificate.pdf>`. Cyber Security online
-
-
-``Also Prepared for CEH v9.0 in year 2016, but did not appeared for exam/certifications.``
-
-
------
-
-
-SD-WAN
-------
-
-Cisco SD-WAN Online 
-^^^^^^^^^^^^^^^^^^^^^^^
-
-    * Self study at cisco portal online
-    * Timeframe: Sep-Oct 2020
-    * inluded 5 courses.
-
-        #. :download:`SDW-Course1 <images/sdwan/CDLL-SDW-START.pdf>`. SDWAN Getting Started
-        #. :download:`SDW-Course2 <images/sdwan/CDLL-SDW-DATPLN.pdf>`. Deploying Data Plane
-        #. :download:`SDW-Course3 <images/sdwan/CDLL-SDW-OVRLAY.pdf>`. Developing the Overlay Topology
-        #. :download:`SDW-Course4 <images/sdwan/CDLL-SDW-APPEXP.pdf>`. Managing the Application Experience
-        #. :download:`SDW-Course5 <images/sdwan/CDLL-SDW-CTRPLN.pdf>`. Bringing Up Control Plane Devices
-
-
------
-
-
 Machine Learning
 ----------------
 
@@ -149,4 +91,61 @@ Neural Networks and Deep Learning
 
         #. :download:`NN & DL - Course certificate <images/tr_ml/CE-Coursera NN and DL.pdf>`. Neural Networks and Deep Learning
 
+
+-----
+
+
+Security
+--------
+
+
+Cyber Security online
+^^^^^^^^^^^^^^^^^^^^^
+
+ 
+    * Self study at udemy online
+    * TrimeFrame: Jul-2017
+    * 1 course.
+
+        #. :download:`CS online Course certificate <images/tr/TR-CyberSecurity_Certificate.pdf>`. Cyber Security online
+
+
+``Also Prepared for CEH v9.0 in year 2016, but did not appeared for exam/certifications.``
+
+
+-----
+
+
+SD-WAN
+------
+
+Cisco SD-WAN Online 
+^^^^^^^^^^^^^^^^^^^^^^^
+
+    * Self study at cisco portal online
+    * Timeframe: Sep-Oct 2020
+    * inluded 5 courses.
+
+        #. :download:`SDW-Course1 <images/sdwan/CDLL-SDW-START.pdf>`. SDWAN Getting Started
+        #. :download:`SDW-Course2 <images/sdwan/CDLL-SDW-DATPLN.pdf>`. Deploying Data Plane
+        #. :download:`SDW-Course3 <images/sdwan/CDLL-SDW-OVRLAY.pdf>`. Developing the Overlay Topology
+        #. :download:`SDW-Course4 <images/sdwan/CDLL-SDW-APPEXP.pdf>`. Managing the Application Experience
+        #. :download:`SDW-Course5 <images/sdwan/CDLL-SDW-CTRPLN.pdf>`. Bringing Up Control Plane Devices
+
+
+-----
+
+
+Juniper
+-------
+
+
+Juniper MPLS and VPN (JMV) - partener
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ 
+    * Juniper Partener training
+    * TrimeFrame: Jun-2014
+    * 1 course.
+
+        #. :download:`JMV Course certificate <images/tr/Juniper MPLS VPN Cert.pdf>`. Juniper MPLS and VPN (JMV)
 

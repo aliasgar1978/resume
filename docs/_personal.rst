@@ -3,8 +3,8 @@ Personal
 
 .. admonition:: Summary
 
-   Subject Matter expert and POD leader in Network and Network Automation, with 15+ years of experience. 
-   Willing to work in Artificial Intelligence, Machine learning.
+   Subject Matter Expert (**SME**) and (**POD leader**) in Network and Network Automation, with 15+ years of experience. 
+   Willing to work in Artificial Intelligence, Machine Learning.
 
 
 
@@ -47,10 +47,10 @@ Personal
 
    Here I, **Aliasgar Hozaifa Lokhandwala** declares that the information provided here and on forthcoming pages, are 100% true as per my best knowledge.  
 
-   Also, I would like to add, that some of *past original* copies of my certificates, appointment letters are either missing or damaged due to a natural incident happen at my native earlier.
+   Also, I would like to add, that some of *past original* copies of my certificates & appointment letters are either missing or damaged due to a natural incident happen at my native earlier.
 
 :Authors: Aliasgar Hozaifa Lokhandwala
 
-:Version: 2023/04/12
+:Version: 2023/12/23
 
-:Dedication: To my father.
+:Dedication: To My Father.
