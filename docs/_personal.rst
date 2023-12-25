@@ -37,6 +37,13 @@ Personal
 
 
 
+
+.. figure:: images/timelines.jpg
+   :alt: Time-line chart
+   :align: center
+
+
+
 :download:`Resume-Brief <images/resume.pdf>`. 
 
 
